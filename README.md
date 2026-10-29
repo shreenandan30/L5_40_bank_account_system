@@ -1,3 +1,14 @@
+# Software Engineering Labs — Lab Index
+
+This repository collects my Software Engineering lab submissions.
+
+## Lab Index
+
+- **[Lab 5 — Static Code Analysis](#lab-5-static-code-analysis--bank-account-system)** — Bank Account System; Pylint, Flake8, and Bandit analysis and fixes.
+- **[Lab 6 — Code and Branch Coverage](Lab%206/README.md)** — Ride Share Fare; pytest test suites, code/branch coverage screenshots, and run commands.
+
+---
+
 # Lab 5: Static Code Analysis — Bank Account System
 
 **Your file:** `bank_account_system.py`
